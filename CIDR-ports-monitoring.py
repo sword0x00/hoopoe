@@ -1,3 +1,4 @@
+# This is a python script to run masscan tool on a list of CIDR ranges and check for open ports every 12 hours.
 import subprocess
 import time
 
