@@ -69,6 +69,9 @@ def loop_on_CIDR_alert(domain, CIDR_dirPath, listOfCIDRs_filePath, notifyId):
 
 
 while True:  # This loop will run indefinitely until manually stopped
-    loop_on_CIDR_alert("domain.com", "/root/Recon/domain/CIDR/",
-                       "/root/Recon/domain/CIDR/list_OfCIDRs.txt", "your-notifyId-belong-to-discord-here")
+    loop_on_CIDR_alert("domain.com", "/yourPath/Recon/domain/CIDR/",
+                       "/yourPath/Recon/domain/CIDR/list_OfCIDRs.txt", "your-notifyId-belong-to-discord-here")
     time.sleep(43200)  # Sleep for 12 hours
+
+
+# to run this script on your "VPS background", use this command: nohup python3 CIDR-ports-monitoring.py &
