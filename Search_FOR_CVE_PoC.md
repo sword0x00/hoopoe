@@ -11,7 +11,7 @@
 - [ ] Google —> search by "Technology" "Version" exploits.
   - Ex: Apache 9.1.3 exploits
 - [ ] https://cvexploits.io/ —> search by CVE-ID  or by technology.
-- [ ] exploit-db —> search by your Technology or by CVE-ID or anything.
+- [ ] exploit-db.com —> search by your Technology or by CVE-ID or anything.
 - [ ] Google —> search by “CVE-ID  GitHub”
     - Ex: CVE-2024-22245 GitHub
     - Ex2: CVE-2024-22245 github.com
