@@ -8,8 +8,10 @@
 
 - [X] Google  —> search by "Technology" "Version" vulnerabilities.
    - Ex: Tomcat 3.4.3 vulnerabilites
-- [ ] Google —> search by "Technology" "Version" exploits.
-  - Ex: Apache 9.1.3 exploits
+   - Ex: Tomcat 3.6.6 CVEs
+   - EX: Tomcat 3.5.3 publicly available exploits
+   - Ex: Apache 9.1.1 proof of concepts (PoCs)
+   - Ex: Apache 9.1.3 exploits
 - [ ] https://cvexploits.io/ —> search by CVE-ID  or by technology.
 - [ ] https://exploit-db.com —> search by your Technology or by CVE-ID or anything.
 - [ ] Google —> search by “CVE-ID  GitHub”
