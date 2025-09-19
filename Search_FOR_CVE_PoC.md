@@ -15,8 +15,9 @@
 - [ ] https://cvexploits.io/ —> search by CVE-ID  or by technology.
 - [ ] https://exploit-db.com —> search by your Technology or by CVE-ID or anything.
 - [ ] Google —> search by “CVE-ID  GitHub”
-    - Ex: CVE-2024-22245 GitHub
+    - Ex1: CVE-2024-22245 GitHub
     - Ex2: CVE-2024-22245 github.com
+    - Ex3: Apache 3.9.6 exploit metasploit github
 - [ ] Twitter —> search by CVE-ID
 - [ ] Searchsploit tool on Kali Linux by :
     
